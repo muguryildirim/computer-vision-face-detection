@@ -2,7 +2,7 @@
 Computer Vision Final Project - Real-Time Face Detection
 
 ## This project was assigned by Asst. Prof. Dr. Mehmet Zeki Konyar in ISE 462 course.
-##### Opencv 310
+##### OpenCV 3.10
 ##### Java 11
 The aim of the project is to detect the nose and mouth of the person or persons, in addition to their frontal faces, live from the camera, and the haar-cascade method was used as a method.
 
