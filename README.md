@@ -17,5 +17,4 @@ Haar Cascading is the machine learning method where a classifier is drilled from
 
 #### Local Binary Patterns
 Local Binary Pattern is a kind of visual course used for categorization on computer vision. LBP is the distinct case of the Texture Spectrum imitation put forwarded in 1990. LBP was first illustrated in 1994. It has since been found to be a strong factor for texture categorization. By utilizing LBP operator, individual photo is examined as a structure of micro-patterns. Then the histogram of LBP is enumerated throughout the face, which encrypts just the circumstances of micro-patterns. The figure of documentation is assembled by splitting face picture toward m minor non over lapping sections such as R0, R1,...,Rm .The original LBP labels the pixels by
-threshold the 3 × 3 neighborhood in relation to the central pixel value. In a particular numerical scale the common features, such as edges, lines, point, can be represented by a value. Therefore, it is possible to recognize objects in an image using a set of values extracted a priori
-//
+threshold the 3 × 3 neighborhood in relation to the central pixel value. In a particular numerical scale the common features, such as edges, lines, point, can be represented by a value. Therefore, it is possible to recognize objects in an image using a set of values extracted a priori.
